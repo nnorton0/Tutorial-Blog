@@ -319,3 +319,5 @@ To deepen your understanding of the Web Storage API, JSON, and client-side data 
 * [MDN Web Docs: Working with JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON): A great guide explaining what JSON is, how syntax rules apply, and how to convert between strings and objects using `JSON.parse()` and `JSON.stringify()`.
 * [freeCodeCamp: How to Use Local Storage in JavaScript](https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/): A beginner friendly walkthrough that provides project examples, such as building theme toggles and counters with local storage.
 * [W3Schools: HTML5 Web Storage API](https://www.w3schools.com/html/html5_webstorage.asp): A concise reference guide offering side by side code snippets and live interactive code editors to test storage concepts quickly.
+
+* Final side note ai was used for spell check and grammar improvement.
